@@ -1,0 +1,28 @@
+.titulo{
+    color: aliceblue;
+    background-color: skyblue;
+    text-align: center;
+    font-family:cursive;
+}
+.semestre{
+    color: antiquewhite;
+    background-color: lightpink;
+    font-family: monospace;
+    font-size: 35px;
+    text-align: center;
+    
+}
+.semestre2{
+    color: mediumpurple;
+    background-color: violet;
+    font-family: monospace;
+    font-size: 35px;
+    text-align: center;
+}
+ol{
+    color: black;
+    background-color:papayawhip;
+    font-family: fantasy;
+    margin: 4px;
+    border: double:
+}

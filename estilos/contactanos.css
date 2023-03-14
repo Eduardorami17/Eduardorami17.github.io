@@ -1,0 +1,18 @@
+#titulo{
+    color: cadetblue;
+    background-color: deepskyblue;
+    font-family: cursive;
+    font-size: 30px;
+}
+.subtitulo{
+    color: black;
+    background color: lightskyblue;
+    font-family: monospace;
+    text-align: center;
+}
+.parrafo{
+    color: darkblue;
+    background color: darkseagreen;
+    font-family: sans-serif;
+    text-align: center;
+}

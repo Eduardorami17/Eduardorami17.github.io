@@ -1,0 +1,17 @@
+.titulo{
+  color: aliceblue;
+    background-color: darkseagreen;
+    text-align: center;
+    font-family: inherit;
+    
+}
+.parrafo{
+    color: darkseagreen;
+    background-color: forestgreen;
+    font-family: fantasy;
+}
+li{
+    color: darkseagreen;
+    background-color: bisque;
+    font-family: sans-serif;
+}

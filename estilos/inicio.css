@@ -1,0 +1,19 @@
+.titulo{
+    color: green;
+    background-color: antiquewhite;
+text-align: center;
+    font-family: serif;
+    display: inline-block;
+}
+p{
+    color: antiquewhite;
+    background-color: darkseagreen;
+    font-family:monospace;
+    display: inline-block;
+    
+}
+ol{
+    background-color: antiquewhite;
+    color: white;
+    font-family: inherit;
+}

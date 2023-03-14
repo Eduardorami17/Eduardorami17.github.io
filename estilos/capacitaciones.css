@@ -1,0 +1,28 @@
+#titulo{
+    display:inline-block;text-align: center;text-align: center;
+    float: center;
+    background-color: darkturquoise;
+    color: darkcyan;
+    font-family: monospace;
+    width: 100%;
+}
+.capacitacion{
+    display: inline-block;
+    background-color: aqua;
+    background-color: darkturquoise;
+    font-family: fantasy;
+    
+    
+}
+.parrafo{
+    background-color: darkcyan;
+    color: white;
+    font-family: cursive;
+}
+#pie{
+    text-align: center;
+    font-size: 20px;
+    border: groove;
+    color: azure;
+    background-color: darkseagreen;
+}
